@@ -1,0 +1,13 @@
+{
+    "model": "resnet18",
+    "epochs": 100,
+    "batch_size": 64,
+    "lr": 0.01,
+    "momentum": 0.9,
+    "weight_decay": 5e-4,
+    "seed": 42,
+    "optimizer": "both",
+    "samples_per_class": 500,
+    "data_dir": "./data",
+    "output_dir": "./outputs/resnet18_cifar10"
+} 
