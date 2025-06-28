@@ -1,4 +1,4 @@
-# OrthoGrad: Orthogonal Gradient Method for Deep Learning
+# Orthogonal Gradient Descent Improves Neural Calibration
 
 This repository contains the implementation and experiments for the OrthoGrad optimizer as explored in https://arxiv.org/abs/2506.04487. 
 
