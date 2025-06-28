@@ -1,6 +1,6 @@
 # OrthoGrad: Orthogonal Gradient Method for Deep Learning
 
-This repository contains the implementation and experiments for the OrthoGrad optimizer, a novel optimization method that projects gradients to be orthogonal to current parameters before applying updates.
+This repository contains the implementation and experiments for the OrthoGrad optimizer as explored in https://arxiv.org/abs/2506.04487. 
 
 ## Overview
 
